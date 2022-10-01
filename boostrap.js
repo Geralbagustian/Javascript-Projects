@@ -59,6 +59,7 @@ $("#modal-5").fireModal({
 
       clearInterval(fake_ajax);
     }, 1500);
+# continue to hacktober
 
     e.preventDefault();
   },
